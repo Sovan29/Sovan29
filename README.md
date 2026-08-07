@@ -9,11 +9,11 @@ Full Stack Developer • Computer Science & Engineering Final Year Student
 
 <p align="">
 
-<a href="https://sovan29.netlify.app/">
+<a href="https://sovan29.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/PORTFOLIO-5F5F63?style=for-the-badge&logoColor=white&labelColor=5F5F63"/>
 </a>
 
-<a href="https://sovan29.netlify.app/">
+<a href="https://sovan29.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/SOVAN.TECH-CF6D9A?style=for-the-badge&logoColor=white"/>
 </a>
 
