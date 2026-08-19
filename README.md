@@ -49,8 +49,7 @@ Full Stack Developer | AI Engineer | System Designer
 
 ### 🎯 Career Goal
 
-To become a skilled Software Engineer who builds impactful products, contributes to open source, and continuously grows through learning and innovation.
-<hr>
+To build a career as a Full Stack Developer and AI Engineer, designing scalable, intelligent, and user-focused software systems that solve real-world problems.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
